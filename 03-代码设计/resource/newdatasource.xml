@@ -4,9 +4,9 @@
 		<var type="value" name="name">工程名</var>
 	</datasource>
 	<datasource type="img" name="javalogo">
-        <path>d:/workspace/UWR/03-代码设计/resource/Java-logo.jpg</path>
+        <path>H:\Java_Project\uwr2019\03-代码设计\resource/Java-logo.jpg</path>
 	</datasource>
 	<datasource type="xml" name="xml1">
-        <file>d:/workspace/UWR/03-代码设计/resource/employees.xml</file>
+        <file>H:\Java_Project\uwr2019\03-代码设计\resource/employees.xml</file>
 	</datasource>
 </DataSourceConfig>
